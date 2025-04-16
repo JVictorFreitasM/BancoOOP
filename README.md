@@ -4,6 +4,9 @@ Este projeto é uma simulação de uma conta bancária desenvolvida em PHP, com 
 
 🔗 Repositório: [github.com/JVictorFreitasM/BancoOOP](https://github.com/JVictorFreitasM/BancoOOP)
 
+![poo](https://github.com/user-attachments/assets/8f15e40d-e5d8-4d0b-9af0-dd3766173564)
+
+
 ## 📦 Funcionalidades
 
 - Abrir conta (Corrente ou Poupança)
